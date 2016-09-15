@@ -37,11 +37,19 @@ L'attaque par force brute est une méthode utilisée pour découvrir un mot de p
 * https://openclassrooms.com/courses/eviter-les-attaques-par-force-brute
 
 ***    
-# Qui est Linus Torvalds ?
-## Quelles sont ses plus grands développements ?
+# 5. Qui est Linus Torvalds ?
+## Quels sont ses plus grands développements ?
+
+Linus Benedict Torvalds est un informaticien américano-finlandais. Il est connu pour avoir créé en 1991 le noyau Linux utilisé dans le système d'exploitation GNU/Linux. 
+
+* https://fr.wikipedia.org/wiki/Linus_Torvalds
 
 ***
-# Combien coûte un nom de domaine ?
+# 6.Combien coûte un nom de domaine ?
+
+Le nom de domaine peut être "gratuit" (offert dans la prestation d'un hébergeur) ou bien s'élever de quelques centimes à quelques millions d'euros. Cette variation dépend de l'extension, de l'attractivité du nom, mais aussi dans le cas de l'achat d'un nom de domaine pré-existant, de sa notoriété et donc de son référencement. 
+
+* http://strategieweb.fr/article/estimation-valeur-nom-de-domaine 
 
 ***    
 # Quels sont les différents services d'emailing disponibles ?
