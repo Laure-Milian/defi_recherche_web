@@ -47,13 +47,18 @@ Linus Benedict Torvalds est un informaticien américano-finlandais. Il est connu
 ***
 # 6.Combien coûte un nom de domaine ?
 
-Le nom de domaine peut être "gratuit" (offert dans la prestation d'un hébergeur) ou bien s'élever de quelques centimes à quelques millions d'euros. Cette variation dépend de l'extension, de l'attractivité du nom, mais aussi dans le cas de l'achat d'un nom de domaine pré-existant, de sa notoriété et donc de son référencement. 
+Le nom de domaine peut être "gratuit" (offert dans la prestation d'un hébergeur) ou bien s'élever de quelques centimes à quelques millions d'euros. Cette variation dépend de l'extension, de l'attractivité du nom, mais aussi dans le cas de l'achat d'un nom de domaine pré-existant, de sa notoriété et donc de son référencement. A noter aussi que le nom de domaine devra être renouvelé au bout d'une période donnée.
 
 * http://strategieweb.fr/article/estimation-valeur-nom-de-domaine 
 
 ***    
-# Quels sont les différents services d'emailing disponibles ?
+# 7. Quels sont les différents services d'emailing disponibles ?
 ## Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
+
+Il existe de nombreux services d'emailing : MailChimp, MailJet, Sarbacane, SendinBlue... (à terminer)
+
+* http://www.webmarketing-com.com/2014/05/13/28049-comparatif-choisir-service-demailing-adapte
+* http://www.pme-web.com/meilleures-alternatives-mailchimp-newsletters/
     
 ***
 # Quelle est votre adress IP actuelle ?
