@@ -1,6 +1,14 @@
 
 # Qui est Richard Stallman ?
-    
+
+Richard Matthew Stallman (connu aussi sous les initiales rms) est un programmeur et militant du logiciel libre. Dans les années 1980, il commence à développer le système d'exploitation GNU. En 1992, la première version fonctionnelle du système GNU est construite avec l’utilisation du noyau Linux, un projet développé indépendamment du projet GNU par Linus Torvalds.
+
+*https://fr.wikipedia.org/wiki/GNU*
+*https://fr.wikipedia.org/wiki/Projet_GNU*
+*https://fr.wikipedia.org/wiki/Richard_Stallman*
+*https://stallman.org/biographies.html#serious*
+
+
 ***
 # Comment fonctionnent les bang de Duck Duck Go ?
     
