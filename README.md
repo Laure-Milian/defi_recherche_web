@@ -1,5 +1,5 @@
 
-# Qui est Richard Stallman ?
+# 1. Qui est Richard Stallman ?
 
 Richard Matthew Stallman (connu aussi sous les initiales rms) est un programmeur et militant du logiciel libre. Dans les années 1980, il commence à développer le système d'exploitation GNU. En 1992, la première version fonctionnelle du système GNU est construite avec l’utilisation du noyau Linux, un projet développé indépendamment du projet GNU par Linus Torvalds.
 
@@ -10,7 +10,7 @@ Richard Matthew Stallman (connu aussi sous les initiales rms) est un programmeur
 
 
 ***
-# Comment fonctionnent les bang de Duck Duck Go ?
+# 2. Comment fonctionnent les bang de Duck Duck Go ?
 
 Les bangs de Duck Duck Go permettent de faire une recherche directement sur un site. Pour cela, une fois le moteur de recherche installé, il faut taper dans la barre de recherche "!" suivi du code pour le site, puis les termes de recherche (l’opérateur booléen AND est inclus par défaut ce qui signifie que si vous tapez 2 mots il recherchera les résultats contenant la présence obligatoire des deux termes). Par exemple, pour faire une recherche sur Youtube France, il faudra taper : !ytfr chatons mignons. La liste des sites est disponible sur le site. 
 
@@ -19,7 +19,7 @@ Les bangs de Duck Duck Go permettent de faire une recherche directement sur un s
     
     
 ***
-# Qui est Marissa Mayer ?
+# 3. Qui est Marissa Mayer ?
 
 Marissa Mayer rejoint Google comme ingénieure en 1999, alors que l'entreprise ne compte encore qu'une vingtaine de salariés. En 2012, Marissa Mayer est nommée PDG de Yahoo!, poste qu'elle occupe toujours actuellement.
 
@@ -28,7 +28,7 @@ Marissa Mayer rejoint Google comme ingénieure en 1999, alors que l'entreprise n
     
 
 ***
-# Qu’est-ce qu’une attaque “brute force” ?
+# 4. Qu’est-ce qu’une attaque “brute force” ?
 
 L'attaque par force brute est une méthode utilisée pour découvrir un mot de passe ou une clef de chiffrement. Elle consiste à utiliser un programme qui teste, une à une, toutes les combinaisons possibles. Selon la longueur et la complexité du mot de passe ou de la clef, cette méthode peut demander beaucoup de temps. Elle peut être couplée avec une base de données recensant les mots de passe les plus utilisés ou qui ont une grande chance d'être utilisés afin d'accélérer le processus. Pour se protéger de ce type d'attaque, l'une des solutions est de limiter le nombre de tentatives possibles par intervalle de temps. 
 
