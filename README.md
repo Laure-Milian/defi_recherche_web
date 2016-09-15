@@ -62,8 +62,13 @@ Il existe de nombreux services d'emailing : MailChimp, MailJet, Sarbacane, Sendi
 * https://mailchimp.com/features/automation/
     
 ***
-# Quelle est votre adress IP actuelle ?
+# 8. Quelle est votre adress IP actuelle ?
 ## Et celle de votre smartphone ?
+
+Ordinateur Simplon : 217.114.203.210
+Smartphone : 80.215.246.186
+
+* http://www.mon-ip.com/
 
 ***    
 # Qu’est-ce que le développement en cycle V ?
