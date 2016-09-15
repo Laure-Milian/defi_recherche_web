@@ -3,7 +3,7 @@
 
 Richard Matthew Stallman (connu aussi sous les initiales rms) est un programmeur et militant du logiciel libre. Dans les années 1980, il commence à développer le système d'exploitation GNU. En 1992, la première version fonctionnelle du système GNU est construite avec l’utilisation du noyau Linux, un projet développé indépendamment du projet GNU par Linus Torvalds.
 
-* wikihttps://fr.wikipedia.org/wiki/GNU
+* https://fr.wikipedia.org/wiki/GNU
 * https://fr.wikipedia.org/wiki/Projet_GNU
 * https://fr.wikipedia.org/wiki/Richard_Stallman
 * https://stallman.org/biographies.html#serious
@@ -29,6 +29,12 @@ Marissa Mayer rejoint Google comme ingénieure en 1999, alors que l'entreprise n
 
 ***
 # Qu’est-ce qu’une attaque “brute force” ?
+
+L'attaque par force brute est une méthode utilisée pour découvrir un mot de passe ou une clef de chiffrement. Elle consiste à utiliser un programme qui teste, une à une, toutes les combinaisons possibles. Selon la longueur et la complexité du mot de passe ou de la clef, cette méthode peut demander beaucoup de temps. Elle peut être couplée avec une base de données recensant les mots de passe les plus utilisés ou qui ont une grande chance d'être utilisés afin d'accélérer le processus. Pour se protéger de ce type d'attaque, l'une des solutions est de limiter le nombre de tentatives possibles par intervalle de temps. 
+
+* https://fr.wikipedia.org/wiki/Attaque_par_force_brute
+* https://fr.wikipedia.org/wiki/Cryptanalyse
+* https://openclassrooms.com/courses/eviter-les-attaques-par-force-brute
 
 ***    
 # Qui est Linus Torvalds ?
