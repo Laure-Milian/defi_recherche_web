@@ -11,6 +11,11 @@ Richard Matthew Stallman (connu aussi sous les initiales rms) est un programmeur
 
 ***
 # Comment fonctionnent les bang de Duck Duck Go ?
+
+Les bangs de Duck Duck Go permettent de faire une recherche directement sur un site. Pour cela, une fois le moteur de recherche installé, il faut taper dans la barre de recherche "!" suivi du code pour le site, puis les termes de recherche. Par exemple, pour faire une recherche sur Youtube France, il faudra taper : !ytfr chatons mignons. La liste des sites est disponible sur le site. 
+
+*https://duckduckgo.com/bang?*
+*http://dcorbille.free.fr/?p=2873*
     
 ***
 # Qui est Marissa Mayer ?
