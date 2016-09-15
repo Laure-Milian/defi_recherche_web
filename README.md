@@ -55,10 +55,11 @@ Le nom de domaine peut être "gratuit" (offert dans la prestation d'un hébergeu
 # 7. Quels sont les différents services d'emailing disponibles ?
 ## Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
 
-Il existe de nombreux services d'emailing : MailChimp, MailJet, Sarbacane, SendinBlue... (à terminer)
+Il existe de nombreux services d'emailing : MailChimp, MailJet, Sarbacane, SendinBlue... Pour l'envoi d'emails automatiques, ces services incluent souvent des fonctionnalités spéciales. C'est le cas de MailChimp ou Sarbacane par exemple.
 
 * http://www.webmarketing-com.com/2014/05/13/28049-comparatif-choisir-service-demailing-adapte
 * http://www.pme-web.com/meilleures-alternatives-mailchimp-newsletters/
+* https://mailchimp.com/features/automation/
     
 ***
 # Quelle est votre adress IP actuelle ?
