@@ -3,10 +3,10 @@
 
 Richard Matthew Stallman (connu aussi sous les initiales rms) est un programmeur et militant du logiciel libre. Dans les années 1980, il commence à développer le système d'exploitation GNU. En 1992, la première version fonctionnelle du système GNU est construite avec l’utilisation du noyau Linux, un projet développé indépendamment du projet GNU par Linus Torvalds.
 
-*https://fr.wikipedia.org/wiki/GNU*
-*https://fr.wikipedia.org/wiki/Projet_GNU*
-*https://fr.wikipedia.org/wiki/Richard_Stallman*
-*https://stallman.org/biographies.html#serious*
+* wikihttps://fr.wikipedia.org/wiki/GNU
+* https://fr.wikipedia.org/wiki/Projet_GNU
+* https://fr.wikipedia.org/wiki/Richard_Stallman
+* https://stallman.org/biographies.html#serious
 
 
 ***
@@ -14,12 +14,19 @@ Richard Matthew Stallman (connu aussi sous les initiales rms) est un programmeur
 
 Les bangs de Duck Duck Go permettent de faire une recherche directement sur un site. Pour cela, une fois le moteur de recherche installé, il faut taper dans la barre de recherche "!" suivi du code pour le site, puis les termes de recherche (l’opérateur booléen AND est inclus par défaut ce qui signifie que si vous tapez 2 mots il recherchera les résultats contenant la présence obligatoire des deux termes). Par exemple, pour faire une recherche sur Youtube France, il faudra taper : !ytfr chatons mignons. La liste des sites est disponible sur le site. 
 
-*https://duckduckgo.com/bang?*
-*http://dcorbille.free.fr/?p=2873*
+* https://duckduckgo.com/bang?
+* http://dcorbille.free.fr/?p=2873
+    
     
 ***
 # Qui est Marissa Mayer ?
+
+Marissa Mayer rejoint Google comme ingénieure en 1999, alors que l'entreprise ne compte encore qu'une vingtaine de salariés. En 2012, Marissa Mayer est nommée PDG de Yahoo!, poste qu'elle occupe toujours actuellement.
+
+* https://fr.wikipedia.org/wiki/Marissa_Mayer
+* http://rue89.nouvelobs.com/2016/08/03/apres-bashing-ex-yahoo-rehabilite-marissa-mayer-264859
     
+
 ***
 # Qu’est-ce qu’une attaque “brute force” ?
 
